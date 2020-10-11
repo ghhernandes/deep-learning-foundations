@@ -12,7 +12,7 @@ As reference, i use [Fast.ai](https://course19.fast.ai/part2) course.
 	- [x] Tensor  
 	- [x] Forbenius norm
 	- [x] Brodcasting
-	- [ ] Einstein summation
+	- [x] Einstein summation
 - [ ] Foward and backward passes
 - [ ] Loss functions
 - [ ] Optimizers
