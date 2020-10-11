@@ -6,7 +6,7 @@ The objective is build a state of the art deep learning model from scratch.
 
 ## Roadmap 
 
-Reference course [Fast.ai](https://course19.fast.ai/part2) course.
+Reference course [Fast.ai](https://course19.fast.ai/part2).
 
 - [x] Matrix Multiplication
 	- [x] Tensor  
