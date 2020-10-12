@@ -14,6 +14,8 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 	- [x] Brodcasting
 	- [x] Einstein summation
 - [ ] Foward and backward passes
+    - [ ] Fully connected
+    - [ ] Convolutions
 - [ ] Loss functions
 - [ ] Optimizers
 - [ ] Training loop
