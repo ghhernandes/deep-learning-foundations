@@ -24,7 +24,7 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 
 ## Papers
 
-[The Computational Limits of Deep Learning](https://arxiv.org/pdf/2007.05558.pdf)
+[ (arXiv:2007.05558v1) The Computational Limits of Deep Learning](https://arxiv.org/pdf/2007.05558.pdf)
 
 ## Articles
 
