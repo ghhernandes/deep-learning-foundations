@@ -21,3 +21,7 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 - [ ] Training loop
 - [ ] Callbacks and event handlers
 - [ ] Data Block API and generic optimizer
+
+## Papers
+
+[The Computational Limits of Deep Learning](https://arxiv.org/pdf/2007.05558.pdf)
