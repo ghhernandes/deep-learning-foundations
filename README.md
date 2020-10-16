@@ -32,7 +32,7 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 
 ## Books
 
-[Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?dchild=1&keywords=deep+learning&qid=1602810047&sr=8-1)
+[Deep Learning by Ian Goodfellow](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?dchild=1&keywords=deep+learning&qid=1602810047&sr=8-1)
 
 [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_2?dchild=1&keywords=pytorch&qid=1602810103&sr=8-2)
 
