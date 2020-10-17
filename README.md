@@ -24,7 +24,11 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 
 ## Papers
 
-[ (arXiv:2007.05558v1) The Computational Limits of Deep Learning](https://arxiv.org/pdf/2007.05558.pdf)
+[The Computational Limits of Deep Learning](https://arxiv.org/pdf/2007.05558.pdf)
+
+[Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a.html)
+
+[Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 
 ## Articles
 
