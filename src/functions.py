@@ -2,6 +2,9 @@
 
 import torch
 
+# Matrix multiplication
+## The number of columns of A-matrix must be equals B-matrix number of rows
+## https://en.wikipedia.org/wiki/Matrix_multiplication
 def matmul(a, b: torch.tensor) -> torch.tensor:
     ar, ac = a.shape
     br, bc = b.shape
@@ -12,10 +15,10 @@ def matmul(a, b: torch.tensor) -> torch.tensor:
             c[i, j] += (a[i, :] * b[:, j]).sum()
     return c
 
-def normalize(x, m, s -> torch.tensor) ->torch.tensor:
-    return (x-m)/s
+# Standard score is the number of standard deviations by which the value 
+# of a raw score is above or below the mean of what is being observed.
+# https://en.wikipedia.org/wiki/Standard_score
+# z = (x - mean) / std
+def normalize(x, m, s: torch.tensor) ->torch.tensor:
+    return (x-m)//s
 
-if __name__ == '__main__':
-    m1 = torch.randn((10, 28*28))
-    m2 = torch.randn((28*28, 20))
-    print(matmul(m1, m2))
