@@ -11,7 +11,7 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 - [x] Matrix Multiplication
 	- [x] Tensor  
 	- [x] Forbenius norm
-	- [x] Brodcasting
+	- [x] Broadcasting
 	- [x] Einstein summation
 - [ ] Foward pass
 	- [x] Fully connected
