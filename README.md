@@ -15,7 +15,7 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 	- [x] Einstein summation
 - [ ] Foward pass
 	- [x] Fully connected
-	- [ ] Conv2D 
+	- [x] Conv2D 
 - [ ] Optimizers 
 	- [ ] SGD
 - [ ] Loss functions
