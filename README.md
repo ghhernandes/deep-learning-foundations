@@ -35,6 +35,10 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 
 [How You Should Read Research Papers According To Andrew Ng](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
 
+## Videos
+
+[CNN Networks (Course 4 Andrew Ng DeepLearning.ai](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+
 ## Books
 
 [Deep Learning by Ian Goodfellow](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?dchild=1&keywords=deep+learning&qid=1602810047&sr=8-1)
