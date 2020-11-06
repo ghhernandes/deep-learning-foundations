@@ -8,6 +8,8 @@ The objective is build a state of the art deep learning model from scratch.
 
 Reference course [Fast.ai](https://course19.fast.ai/part2).
 
+### Foundations 
+
 - [x] Matrix Multiplication
 	- [x] Tensor  
 	- [x] Forbenius norm
@@ -18,10 +20,18 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 	- [x] Conv2D 
 - [ ] Optimizers 
 	- [ ] SGD
+	- [ ] Adam
 - [ ] Loss functions
 - [ ] Training loop
 - [ ] Callbacks and event handlers
 - [ ] Data Block API and generic optimizer
+
+
+### Transfer Learning
+
+- [ ] Models
+- [ ] Fine Tuning
+
 
 ## Papers
 
