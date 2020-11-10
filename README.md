@@ -4,18 +4,16 @@ Deep Learning Foundations Algorithms with Numpy, PyTorch and Fast.ai.
 
 The objective is build a state of the art deep learning model from scratch. 
 
-## Roadmap 
+## Foundations Algorithms Roadmap 
 
 Reference course [Fast.ai](https://course19.fast.ai/part2).
-
-Reference book [Fastbook](https://github.com/fastai/fastbook).
 
 - [x] Matrix Multiplication
 	- [x] Tensor  
 	- [x] Forbenius norm
 	- [x] Broadcasting
 	- [x] Einstein summation
-- [ ] Foward pass
+- [ ] Foward Passes
 	- [x] Fully connected
 	- [x] Conv2D 
 - [ ] Optimizers 
@@ -26,8 +24,9 @@ Reference book [Fastbook](https://github.com/fastai/fastbook).
 - [ ] Callbacks and event handlers
 - [ ] Data Block API and generic optimizer
 
-
 ### Table of Contents 
+
+Reference book [Fastbook](https://github.com/fastai/fastbook).
 
 - Parameters and activations
 - Random initialization and transfer learning
@@ -43,6 +42,10 @@ Reference book [Fastbook](https://github.com/fastai/fastbook).
 - RNNs (Recurrent neural networks)
 - Segmentation
 - U-Net
+
+## AI Quizzes
+
+[Fast.AI](https://aiquizzes.com/knowledgebase)
 
 ## Papers
 
