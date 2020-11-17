@@ -49,6 +49,8 @@ Reference book [Fastbook](https://github.com/fastai/fastbook).
 
 ## Papers
 
+[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+
 [The Computational Limits of Deep Learning](https://arxiv.org/pdf/2007.05558.pdf)
 
 [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a.html)
