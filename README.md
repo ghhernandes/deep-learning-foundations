@@ -49,7 +49,7 @@ Reference book [Fastbook](https://github.com/fastai/fastbook).
 
 ## Papers
 
-[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+[ResNet - Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 [The Computational Limits of Deep Learning](https://arxiv.org/pdf/2007.05558.pdf)
 
