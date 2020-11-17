@@ -51,6 +51,8 @@ Reference book [Fastbook](https://github.com/fastai/fastbook).
 
 [ResNet - Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
+[Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187)
+
 [The Computational Limits of Deep Learning](https://arxiv.org/pdf/2007.05558.pdf)
 
 [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a.html)
