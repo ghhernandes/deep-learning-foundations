@@ -2,6 +2,8 @@ import torch
 import torch.nn as nn
 from math import sqrt
 
+from functions import ReluFunction, LinearFunction
+
 
 
 class Linear(nn.Module):
