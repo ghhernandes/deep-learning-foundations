@@ -13,13 +13,18 @@ Reference course [Fast.ai](https://course19.fast.ai/part2).
 	- [x] Forbenius norm
 	- [x] Broadcasting
 	- [x] Einstein summation
-- [ ] Foward Passes
+- [ ] Forward Passes
 	- [x] Fully connected
-	- [x] Conv2D 
+	- [ ] Conv2D 
+- [x] Backward Passes
+	- [x] Linear
+	- [x] ReLU
+	- [x] MSE
 - [ ] Optimizers 
 	- [ ] SGD
 	- [ ] Adam
 - [ ] Loss functions
+	- [x] MSE
 - [ ] Training loop
 - [ ] Callbacks and event handlers
 - [ ] Data Block API and generic optimizer
