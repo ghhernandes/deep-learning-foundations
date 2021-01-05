@@ -54,6 +54,11 @@ Reference book [Fastbook](https://github.com/fastai/fastbook).
 
 ## Papers
 
+[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
+[Effective Approaches to Attention-based Neural Machine
+Translation](https://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
+
 [ResNet - Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187)
